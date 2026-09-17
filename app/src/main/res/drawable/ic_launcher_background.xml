@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App icon background — the established brand green used throughout
+     the app (Books, Categories, custom colors all default to this same
+     #2E5E4E). A subtle darker corner adds depth without introducing a
+     second color that would fight the foreground for attention. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#2E5E4E"
+        android:pathData="M0,0h108v108h-108z" />
+    <path
+        android:fillColor="#26503F"
+        android:pathData="M108,0 L108,108 L60,108 Z" />
+</vector>
